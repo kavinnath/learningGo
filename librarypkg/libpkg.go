@@ -1,4 +1,4 @@
 package librarypkg
 
 //Test variable to validate lib pkg
-var Test = "success"
+var Test = "success libraray pkg test"
